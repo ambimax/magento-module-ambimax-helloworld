@@ -1,11 +1,7 @@
 {
   "name": "ambimax/magento2-module-ambimax-helloworld",
   "require": {
-    "php": "~7.0.0",
-    "magento/module-catalog": "101.0.*",
-    "magento/module-downloadable": "101.0.*",
-    "magento/framework": "100.1.*",
-    "mtm/productrequest": "1.0.0"
+    "php": "~7.0.0"
   },
   "type": "magento2-module",
   "version": "1.0.0",
